@@ -1,7 +1,8 @@
 ### Hi there 👋
 -----------------------------------------------------------------------------------------------------------------------------------
 #### HJI
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)  
+[![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junil)](https://github.com/hji1014/github-readme-stats)
 <!--
 **hji1014/hji1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
