@@ -1,5 +1,5 @@
 ## [ Introduction ]
-Hi there 👋
+  Hi there 👋
 -----------------------------------------------------------------------------------------------------------------------------------
 ## [ Score ]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)&nbsp;&nbsp;&nbsp;&nbsp;
