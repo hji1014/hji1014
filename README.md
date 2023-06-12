@@ -8,7 +8,7 @@
   
 연세대학교 의료시스템공학 학사 (~2020.02)  
   
-연세대학교 의공학 석사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)  
+연세대학교 의공학 석사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)  
   
 Neural Engineering Lab. (~2023.02)
   
