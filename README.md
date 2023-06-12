@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+Junil's+GitHub!;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcom+to+Junil's+GitHub!)](https://git.io/typing-svg)
 
 ## [ Profile / Career ]
 - empty
