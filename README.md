@@ -15,7 +15,7 @@
 ## 💪 Abilities
 ![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)  
   
-![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
+![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Data%20Analysis-8D1F89?style=for-the-badge&logo=numpy)  
 <!-- https://simpleicons.org/ , https://shields.io/ -->
   
 ## 🛠 Skills
