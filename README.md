@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=2000&color=FFFFFF&center=true&width=435&lines=Welcome+to+Junil's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)  
 
 ## 📃 Profile
-- 1994.10.14 출생  
-- 청담고등학교 졸업 (2013.02)  
-- 연세대학교 의공학과 졸업 (2020.02)  
-- 연세대학교 대학원 의공학과 졸업 (2023.02)
-- 
+- 청담고등학교 (~2013.02)  
+- 연세대학교 의공학 학사 (~2020.02)  
+- 연세대학교 의공학 석사 (~2023.02)  
+
 ## [ Skill ]
 - empty
 - empty
