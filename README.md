@@ -6,7 +6,7 @@
 - 연세대학교 의공학 석사 (~2023.02)  
 - Neural Engineering Lab. (~2023.02)
 
-## [ Skill ]
+## 🛠 Skills
 - empty
 - empty
 ## [ Score ]
