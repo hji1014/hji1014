@@ -1,3 +1,4 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=2000&color=FFFFFF&center=true&width=435&lines=Welcome+to+Junil's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
   
@@ -23,6 +24,7 @@
   
 [![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hji1014&theme=dark&show_icons=true)](https://github.com/hji1014/github-readme-stats)  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</div>
 <!--
 **hji1014/hji1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
