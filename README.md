@@ -19,10 +19,11 @@ Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 ## 🛠 Skills
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
   
-![](https://img.shields.io/badge/-Matlab-000000?style=for-the-badge&logo=mozilla)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-SPSS-9cf?style=for-the-badge&logo=IBM)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
-
+![](https://img.shields.io/badge/-Matlab-1BB76E?style=for-the-badge&logo=mozilla)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-SPSS-1261FE?style=for-the-badge&logo=IBM)&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
 ## 📕 Study(~ing)
-
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  
 ## 🚀 Scores
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
   
