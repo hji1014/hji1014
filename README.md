@@ -17,13 +17,15 @@ Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <!-- https://simpleicons.org/ , https://shields.io/ -->
   
 ## 🛠 Skills
-![](https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras)&nbsp;&nbsp;&nbsp;
+![](https://img.shields.io/badge/-Tensorflow-red?style=for-the-badge&logo=tensorflow)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras)&nbsp;&nbsp;&nbsp;
 
 인공지능, 기계학습, 딥러닝, 통계적분석, 데이터분석
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
 ![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
 
-## [ Score ]
+## 📕 Study(~ing)
+  
+## 🚀 Scores
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
   
 [![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hji1014&theme=dark&show_icons=true)](https://github.com/hji1014/github-readme-stats)  
