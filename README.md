@@ -8,7 +8,7 @@
 - Neural Engineering Lab. (~2023.02)
 
 ## 🛠 Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=ㅁ&logoColor=white">
 
 ## [ Score ]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)&nbsp;&nbsp;&nbsp;&nbsp;
