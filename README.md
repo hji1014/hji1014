@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
 https://img.shields.io/badge/%23bookmeter-Statistical%20analysis-blue  
 ![](https://img.shields.io/badge/%23bookmeter-Statistical%20analysis-blue)  
-!(https://img.shields.io/badge/-Statistical%20analysis-blue)
+![](https://img.shields.io/badge/-Statistical%20analysis-blue)
 ## [ Score ]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hji1014&theme=dark&show_icons=true)](https://github.com/hji1014/github-readme-stats)  
