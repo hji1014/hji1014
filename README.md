@@ -21,7 +21,7 @@
   
 ![](https://img.shields.io/badge/-Matlab-1BB76E?style=for-the-badge&logo=mozilla)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-SPSS-1261FE?style=for-the-badge&logo=IBM)&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-## 📕 Study(~ing)
+## 📕 Proceeding
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   
 ## 🚀 Scores
