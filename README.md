@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=2000&color=FFFFFF&center=true&width=435&lines=Welcome+to+Junil's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+
 ## 📃 Profile
 - 청담고등학교 (~2013.02)  
 - 연세대학교 의료시스템공학 학사 (~2020.02)  
@@ -9,6 +10,7 @@
 ## 🛠 Skills
 - <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 - empty
+
 ## [ Score ]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hji1014&theme=dark&show_icons=true)](https://github.com/hji1014/github-readme-stats)  
