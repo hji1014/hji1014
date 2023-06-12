@@ -4,13 +4,13 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
   
 ## 📃 Profile
-청담고등학교&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2013.02)   
+청담고등학교&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2013.02)   
   
-연세대학교 의료시스템공학 학사 (~2020.02)  
+연세대학교 의료시스템공학 학사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (~2020.02)  
   
-연세대학교 의공학 석사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)  
+연세대학교 의공학 석사&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)  
   
-Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)
+Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)
   
 ## 🛠 Abilities
 ![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
