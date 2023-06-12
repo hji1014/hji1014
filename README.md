@@ -17,7 +17,7 @@ Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 <!-- https://simpleicons.org/ , https://shields.io/ -->
   
 ## 🛠 Skills
-![](https://img.shields.io/badge/-Tensorflow-red?style=for-the-badge&logo=tensorflow)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Keras-red?style=for-the-badge&logo=keras)&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=keras&logoColor=white">  
 
 인공지능, 기계학습, 딥러닝, 통계적분석, 데이터분석
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
