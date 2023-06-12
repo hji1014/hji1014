@@ -13,7 +13,9 @@
 **Neural Engineering Lab.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(~2023.02)**  
   
 ## 💪 Abilities
-![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
+![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)  
+  
+![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
 <!-- https://simpleicons.org/ , https://shields.io/ -->
   
 ## 🛠 Skills
