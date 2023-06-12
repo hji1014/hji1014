@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center">  
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=2000&color=FFFFFF&center=true&width=435&lines=Welcome+to+Junil's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
   
