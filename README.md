@@ -8,7 +8,7 @@
 - Neural Engineering Lab. (~2023.02)
 
 ## 🛠 Skills
-![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)%20![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)
+![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator) ![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)
 
 인공지능, 기계학습, 딥러닝, 통계적분석, 데이터분석
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
