@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=30&pause=2000&color=FFFFFF&center=true&width=435&lines=Welcome+to+Junil's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)  
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-
+  
 ## 📃 Profile
 - 청담고등학교 (~2013.02)  
 - 연세대학교 의료시스템공학 학사 (~2020.02)  
 - 연세대학교 의공학 석사 (~2023.02)  
 - Neural Engineering Lab. (~2023.02)
-
+  
 ## 🛠 Skills
-![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)
+![](https://img.shields.io/badge/-Artificial%20Intelligence-lightgrey?style=for-the-badge&logo=adobeillustrator)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Machine%20Learning-yellowgreen?style=for-the-badge&logo=matrix)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Deep%20Learning-yello?style=for-the-badge&logo=anaconda)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Statistical%20analysis-blue?style=for-the-badge&logo=Bookmeter)  
 <!-- https://simpleicons.org/ , https://shields.io/ -->
+  
+## 🛠 Skills
 
 인공지능, 기계학습, 딥러닝, 통계적분석, 데이터분석
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  
