@@ -30,7 +30,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
   
 <!-- [![Junil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hji1014&theme=dark&show_icons=true)](https://github.com/hji1014/github-readme-stats)  -->
-  
 </div>
 
 <!--
