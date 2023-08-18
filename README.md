@@ -25,7 +25,7 @@
   
 ## 📕 Planning
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  
+
 <!--
 ## 🚀 Scores
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
