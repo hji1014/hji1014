@@ -27,9 +27,11 @@
   
 ![](https://img.shields.io/badge/-HuggingFace-ECD53F?style=for-the-badge)&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-Matlab-1BB76E?style=for-the-badge&logo=mozilla)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/-SPSS-1261FE?style=for-the-badge&logo=IBM)&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
+<!--
 ## 📕 Planning
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">&nbsp;&nbsp;&nbsp;  
-  
+<!--
+
 <!--
 ## 🚀 Scores
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hji1014)](https://solved.ac/hji1014/)
